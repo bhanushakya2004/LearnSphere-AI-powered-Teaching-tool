@@ -64,7 +64,7 @@ https://learn-sphere-ai-powered-educational-platform.vercel.app/
 Backend deployed on GCP Cloud Run
 
 🧑‍💻 Author
-Built with ❤️ by Your Name
+Built with ❤️ by Bhanu Shakya
 
 📄 License
 MIT License
