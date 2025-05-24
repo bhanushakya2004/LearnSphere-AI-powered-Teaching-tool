@@ -56,6 +56,9 @@ GOOGLE_REDIRECT_URI=your_google_oauth_redirect
 JWT_SECRET=your_jwt_secret
 FRONTEND_URL=http://localhost:3000
 
+```
+
+
 🌍 Live Demo
 https://learn-sphere-ai-powered-educational-platform.vercel.app/ 
 Backend deployed on GCP Cloud Run
