@@ -25,7 +25,7 @@
 
 ### Backend
 - Node.js + Express.js
-- MongoDB + Mongoose
+- MongoDB + Mongoose + Firebase
 - Google APIs (Calendar, Gmail, Meet, Sheets)
 - Google OAuth 2.0
 - GCP Cloud Run (for backend deployment)
